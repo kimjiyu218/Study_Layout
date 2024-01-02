@@ -40,7 +40,24 @@
     color: black;
 }
 
-div {
+.div {
     background-color: gold;
     margin: 1rem
+}
+.bg-gold {
+    background-color: gold;
+   
+}
+.bg-lime {
+    background-color: lime;  
+}
+.box {
+   width: 400px;
+   height: 400px;
+}
+.display-block {
+    display: block;
+}
+.display-inlineblock {
+    display: block;
 }
